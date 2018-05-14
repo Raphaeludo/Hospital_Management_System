@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Sanjeevini Hospital</title>
+		<title>Oaktree Hospital</title>
 		<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="js/jquery.min.js"></script>
@@ -68,8 +68,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<li><a href="#about" class="scroll">Facilities</a></li>
 								
 								<li><a href="#contact" class="scroll">Contact</a></li>
-								<li><a href="#" >LOGIN</a></li>
-								<li><a href="#" >APPLY FOR A JOB</a></li>
+								<li><a href="login.php" >LOGIN</a></li>
+								<li><a href="reg.php" >APPLY FOR A JOB</a></li>
 							</ul>
 							<a href="#" id="pull"><img src="images/menu-icon.png" title="menu" /></a>
 						</nav>
